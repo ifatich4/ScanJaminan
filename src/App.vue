@@ -4,7 +4,7 @@
   </div>
 </template>
 
-<script setup>
+<script>
 
 </script>
 
@@ -20,5 +20,8 @@
 }
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
+}
+body {
+  font-family: nunito-sans;
 }
 </style>
